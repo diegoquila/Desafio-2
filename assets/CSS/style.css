@@ -1,0 +1,77 @@
+body{
+    background-color: papayawhip;
+}
+
+.header{
+    background-image: url(../img/header.jpg);
+    border: solid 1px red;
+    padding: 75px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.tabla{
+    font-size:x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.letrah1{
+    font-size:xx-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 150px;  
+}
+
+.subtitulo{
+    font-size:x-large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-left: 150px;
+}
+
+.img-producto{
+    border-radius: 30px;
+    padding: 20px;
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+}
+
+.detalle-producto{
+    font-size: large;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+    padding: 25px;
+    margin-left: 100px;    
+}
+
+footer{
+    border: double 1px white;
+    text-align:left;
+    background-color: lightgreen;
+    height: 220px;
+
+}
+.titulo-footer{
+    margin-left: 30px;
+    color: black; 
+}
+
+.footerletra{
+    font-size:small;
+    font-family:'Times New Roman', Times, serif
+    font-weight: bold;
+    color: : :-moz-only-whitespace;
+    margin-left: 30px;   
+}
+
+.author{
+    text-align: center;
+    color:black;
+    font-size: small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
